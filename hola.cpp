@@ -10,4 +10,10 @@ int main()
     cout << "Hola Mundo";
     cout << "Hola Mundo";
     
+    cout << "Hola Mundo";
+    cout << "Hola Mundo";
+    cout << "Hola Mundo";
+    cout << "Hola Mundo";
+    cout << "Hola Mundo";
+    cout << "Hola Mundo";
 }
